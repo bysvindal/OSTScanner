@@ -49,7 +49,7 @@ By using this software, you acknowledge that:
 
 ## 📋 Requirements
 
-- **Operating System**: Windows 10, Windows 11, or Windows 365
+- **Operating System**: Windows 10, Windows 11
 - **.NET Runtime**: .NET Runtime 8.0.19 or higher
 - **Architecture**: x64 or ARM64
 - **Permissions**: User-level access to Outlook data folders

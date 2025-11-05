@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSTScanner", "OSTScanner.csproj", "{8E12B0D3-7D09-4516-A86B-4F328EB2363E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Debug|x64.ActiveCfg = Debug|x64
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Debug|x64.Build.0 = Debug|x64
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Release|x64.ActiveCfg = Release|x64
+		{8E12B0D3-7D09-4516-A86B-4F328EB2363E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC5DC12-32BF-4E85-ABDF-F340528DE123}
+	EndGlobalSection
+EndGlobal

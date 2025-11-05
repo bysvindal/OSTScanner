@@ -275,7 +275,6 @@ For issues or questions:
 ## 🙏 Acknowledgments
 
 - Based on Microsoft's PST file format specification (MS-PST)
-- Inspired by the need for automated OST validation in Windows 365 environments
 - Thanks to the open-source community for .NET tools and libraries
 
 ---
